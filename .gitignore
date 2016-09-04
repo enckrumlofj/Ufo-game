@@ -93,3 +93,4 @@ Temporary Items
  *.unitypackage
 Library/*
 obj/*
+Temp/*
